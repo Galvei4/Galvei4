@@ -13,7 +13,7 @@ Feel free to check my repositories and all the work I've been done.
 </div>
 
  ##
-<div> 
+<div style="display: inline_block"> 
   <!--Pinterest-->
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" target="_blank"></a>
 
