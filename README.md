@@ -13,24 +13,4 @@ Feel free to check my repositories and all the work I've been done.
 </div>
 
  ##
-<div style="display: inline_block"> 
-  <!--Pinterest-->
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" target="_blank"></a>
-
-  <!--Reddit-->
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>
-
-  <!--Instagram-->
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-
-  <!---Twitter (X)-->
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-
-  <!--TikTok-->
- <a href="#" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a> 
-
- <!--Spotify-->
-  <a href = "#"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-  
-</div>
  
